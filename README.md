@@ -3,7 +3,7 @@
 
 This is a React page that uses Material UI and React Flow libraries. It allows the user to drag and drop components on a canvas and connect them with arrows to create a flowchart-like structure. Material UI is used to style the page while React Flow is used to create the canvas and handle the drag and drop and connection features.
 
-##Site Link
+### Site Link
 https://master--melodic-bubblegum-1b61e3.netlify.app/
 
 ## Installation
@@ -33,6 +33,10 @@ Users can drag and drop components onto the canvas. The components are represent
 ### Connection Arrows
 
 Users can connect the components on the canvas with arrows. The arrows are represented as lines with an arrowhead at each end.
+
+### Deleting Arrows and Nodes
+
+Users can delete the components and connecting arrows by selecting them and using the backspace key. 
 
 ## How it Works
 
